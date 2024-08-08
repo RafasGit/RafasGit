@@ -1,4 +1,4 @@
-Hi there 👋 , I'm [Joshua Ng'ang'a!](https://www.joshnganga.site/)  I am a software engineer and technical writer with three years of experience in the development of fullstack applications, primarily in TypeScript, Tanstack and NextJs. 
+Hi there 👋 , I'm [Joshua Ng'ang'a](https://www.joshnganga.site/) ! I am a software engineer and technical writer with three years of experience in the development of fullstack applications, primarily in TypeScript, Tanstack and NextJs. 
 
 ## About Me
  I was priviledged with the opportunity to transition into tech by interning at the 100Devs ; a US based developer training agency. SInce then I have built individual projects while exploring various technlogies and frameworks such as Next.js, ORMs such as Drizzle and stacks such as the T3 Stack(TypeScript, tRPC, NextAuth and Tailwind). 
