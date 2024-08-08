@@ -1,17 +1,17 @@
-👋 Hi, I'm Jerome Hardaway! I’m the Executive Director at **Vets Who Code** 🎖️ and a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
+Hi there 👋 , I'm Joshua Ng'ang'a!  I am a software engineer and technical writer with three years of experience in the development of fullstack applications, primarily in TypeScript, Tanstack and NextJs. 
 
 ## About Me
-With a background in military service and significant leadership in tech education, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for those transitioning from military to civilian life.
+ I was priviledged with the opportunity to transition into tech by interning at the 100Devs ; a US based developer training agency. I have since used the foundational knowledge gained at the 100Devs to kickstart my curiosity and build individual projects while exploring various technlogies and frameworks such as Next.js, ORMs such as Drizzle and stacks such as the T3 Stack(TypeScript, tRPC, NextAuth and Tailwind). I have since used the foundational knowledge gained at the 100Devs to kickstart my curiosity and build individual projects while exploring various technlogies and frameworks such as Next.js, ORMs such as Drizzle and stacks such as the T3 Stack(TypeScript, tRPC, NextAuth and Tailwind). 
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, TypeScript
-- **Frameworks & Libraries:** React, Next.js, Node.js, FastAPI
-- **Tools & Platforms:** GitHub, Docker, Azure, Vercel
-- **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
+- **Frameworks & Libraries:** React, Next.js, Node.js, Bun.js, Hono.js, tRPC
+- **Tools & Platforms:** GitHub, Jupyter, Azure, Vercel
+- **Data Science & AI:** Jupyter Notebooks, Sk Learn Kit
 
 ## Key Projects 📚
-- **[Vets Who Code App](https://github.com/Vets-Who-Code/vets-who-code-app):** Leading the development of an educational platform using AI to customize veteran learning experiences.
-- **[Web Curriculum](https://github.com/Vets-Who-Code/web-curriculum):** Curating a comprehensive web development curriculum that bridges the gap from novice to job-ready developer.
+- **[Fintter](https://github.com/RafasGit/fintter):** A financial management platform providing insight into your expenditure and income transactions.
+- **[StreamIt](https://github.com/RafasGit/StreamIt):** A Live-streaming application with RTMP and WHIP protocols integrated enabling you to provide live video to your audience, along with realtime communication features.
 - **[Prework](https://github.com/Vets-Who-Code/Prework):** Structuring initial coding exercises that prepare veterans for more advanced topics in web development.
 - **[VetsWhoCode Extension Pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack):** Compiling essential VS Code extensions to enhance coding efficiency for our students.
 - **[VetsWhoCode VS Code Theme](https://github.com/Vets-Who-Code/vetswhocode-vs-code-theme):** Designing a custom Visual Studio Code theme tailored for our community.
