@@ -2,7 +2,7 @@ Hi there 👋 , I'm [Joshua Ng'ang'a](https://www.joshnganga.site/) ! I am a sof
 
 ## About Me
 I focus on delivering projects efficiently without compromising on quality and that the first iteration should never be the last; there is always room for improvement❗
-I have built individual projects while exploring various technlogies and frameworks such as Next.js, ORMs such as Drizzle and stacks such as the T3 Stack(TypeScript, tRPC, NextAuth and Tailwind). 
+I have built individual projects while exploring various technologies and frameworks such as Next.js, ORMs such as Drizzle and stacks such as the T3 Stack(TypeScript, tRPC, NextAuth and Tailwind). 
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, TypeScript 🟦
